@@ -7,10 +7,10 @@
 <h1 align="center" > Lucky Temitope </h1>
 <p align="center">
   <a href="https://twitter.com/losunbiyi" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/kdsgyt?label=Follow&logo=twitter&style=for-the-badge"  alt="Twitter Followers" />
+    <img src="https://img.shields.io/twitter/follow/LuckyTemitope?label=Follow&logo=twitter&style=for-the-badge"  alt="Twitter Followers" />
   </a>
   <a href="https://github.com/LuckyTemitope" target="_blank">
-    <img src="https://img.shields.io/github/followers/kdsgyt?label=Follow&logo=github&style=for-the-badge"  alt="Github Followers" />
+    <img src="https://img.shields.io/github/followers/LuckyTemitope?label=Follow&logo=github&style=for-the-badge"  alt="Github Followers" />
   </a>
 <!--   <a href="https://twitch.com/kdsgcodes" target="_blank">
     <img src="https://img.shields.io/twitch/status/kdsgcodes?style=for-the-badge&logo=twitch"  alt="twitch Followers" />
@@ -18,7 +18,7 @@
   -->
 </p>
 <p align="center">
-  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=luckytemitope&&show_icons=true&theme=dracula" />
+  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=LuckyTemitope&&show_icons=true&theme=dracula" />
 </p>
 
 <!---
